@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "51602804046",
+    "project_id": "bottomnavimageslider",
+    "storage_bucket": "bottomnavimageslider.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51602804046:android:f6b90f64476570b54d621f",
+        "android_client_info": {
+          "package_name": "com.example.bottomnavimageslider"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhUwKeRoKxrxRp4A49HVjIk7SrdWNLhg4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51602804046:android:080148b591a240b94d621f",
+        "android_client_info": {
+          "package_name": "com.example.g8g6g4g9"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhUwKeRoKxrxRp4A49HVjIk7SrdWNLhg4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
